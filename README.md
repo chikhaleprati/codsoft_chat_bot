@@ -13,3 +13,7 @@ Customizable Responses: Responses can be easily customized or extended to accomm
 To use the hostel chatbot, follow these steps:
 
 1. Clone the Repository: Clone this repository to your local machine using the command:
+2. Interact with the Chatbot: Once the chatbot is running, you can start interacting with it by typing your queries. The chatbot will respond accordingly.
+
+4. Exit the Chatbot: To exit the chatbot, simply type "exit" and press Enter.
+
